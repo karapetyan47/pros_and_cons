@@ -1,0 +1,18 @@
+.cons-container {
+  width: 50%;
+  box-sizing: border-box;
+}
+.cons-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  font-size: 18px;
+  border-bottom: 1px solid;
+  text-transform: uppercase;
+}
+.cons-content {
+  overflow-y: auto;
+  height: 550px;
+  padding: 20px;
+}

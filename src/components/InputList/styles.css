@@ -1,0 +1,10 @@
+.item-wrapper {
+  display: flex;
+  margin: 8px 0;
+}
+.item-index {
+  margin-right: 5px;
+  width: 25px;
+  display: flex;
+  justify-content: flex-end;
+}

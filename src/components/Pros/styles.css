@@ -1,0 +1,21 @@
+.pros-container {
+  box-sizing: border-box;
+  width: 50%;
+}
+
+.pros-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  border-bottom: 1px solid;
+  border-right: 1px solid;
+  text-transform: uppercase;
+}
+
+.pros-content {
+  border-right: 1px solid;
+  height: 550px;
+  padding: 20px;
+  overflow-y: auto;
+}
